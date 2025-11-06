@@ -1,5 +1,12 @@
 # OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera
 
+<p align="center">
+  <a href="https://arxiv.org/pdf/2511.03571">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.03571-b31b1b.svg">
+  </a>
+</p>
+
+
 ## ✨ Quick Summary
 **OneOcc** is a **vision-only panoramic** semantic occupancy framework for **legged/humanoid robots**. It handles **gait-induced body jitter** and **360° continuity**, achieves **state-of-the-art** results, and remains **lightweight and deployable**.
 <p align="center">
